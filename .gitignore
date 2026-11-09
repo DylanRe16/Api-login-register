@@ -1,0 +1,20 @@
+
+```text
+# Dependencias
+node_modules/
+
+# Variables de entorno
+.env
+
+# Base de datos local (no subir datos personales/pruebas)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
