@@ -66,7 +66,7 @@ Sigue estos pasos para levantar el proyecto en tu máquina local:
 
    ```bash
 
-   git clone https://github.com/TU_USUARIO/mi-api.git
+   git clone https://github.com/DylanRe16/mi-api.git
 
    cd mi-api
 
